@@ -42,7 +42,6 @@ app.post("/logout", (req, res) => {
   isAuthorized = false;
   res.redirect("/index.html");
 });
-//new changes added fuck you ka
 
 app.listen(port, () => {
   console.log(`This server started at ${port}`);
