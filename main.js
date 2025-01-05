@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const logger = (req, res, next) => {
   const password = req.body["password"];
 
-  if (password === "iloveyou") {
+  if (password === "letTheDevIn") {
     isAuthorized = true;
   }
   next();
