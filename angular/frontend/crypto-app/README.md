@@ -4,6 +4,7 @@ It allows users to encrypt and decrypt text using classical cryptography methods
 
 PS. This is just a school activity.
 
+
 Features:
 
 Additive Cipher (Caesar Cipher) — Encrypt and decrypt text using character shifting.
@@ -16,6 +17,7 @@ Real-time encryption and decryption.
 
 Simple, clean UI for easy interaction.
 
+
 Tech Stack:
 
 Angular CLI v20.3.2
@@ -23,6 +25,7 @@ Angular CLI v20.3.2
 TypeScript
 
 HTML / CSS
+
 
 Getting Started:
 
