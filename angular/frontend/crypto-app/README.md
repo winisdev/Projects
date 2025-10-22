@@ -19,9 +19,11 @@ Additive Cipher (Caesar)
   — Encrypt and decrypt text using character shifting.
 
 Autokey Cipher
+
   — A stronger cipher that uses the plaintext as part of the key.
 
 Vigenère Cipher 
+
   — A polyalphabetic substitution cipher for more secure encryption.
 
 Real-time encryption and decryption.
