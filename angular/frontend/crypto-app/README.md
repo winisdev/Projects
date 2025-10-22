@@ -41,7 +41,7 @@ HTML / CSS
 
 Getting Started:
 1. Clone the repository
-  - git clone <repo-url>
+  - git clone repo-url
 
 2. Navigate to the project folder
   - cd angular/frontend/crypto-app
