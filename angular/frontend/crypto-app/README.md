@@ -1,5 +1,4 @@
-CryptoApp is a simple web application built with Angular CLI
- v20.3.2.
+CryptoApp is a simple web application built with Angular CLI v20.3.2.
 It allows users to encrypt and decrypt text using classical cryptography methods like Additive Cipher and Autokey Cipher.
 
 PS. This is just a school activity.
