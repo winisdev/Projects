@@ -1,4 +1,4 @@
-🛡️ CryptoApp
+CryptoApp
 
 CryptoApp is a simple web application built with Angular CLI v20.3.2.
 It allows users to encrypt and decrypt text using classical cryptography methods such as:
@@ -9,21 +9,21 @@ Autokey Cipher
 
 Vigenère Cipher
 
-📝 Note: This project was created as a school activity.
+Note: This project was created as a school activity.
 
-✨ Features
+Features
 
-🔐 Additive Cipher (Caesar) — Encrypt and decrypt text using character shifting.
+Additive Cipher (Caesar) — Encrypt and decrypt text using character shifting.
 
-🔑 Autokey Cipher — A stronger cipher that uses the plaintext as part of the key.
+Autokey Cipher — A stronger cipher that uses the plaintext as part of the key.
 
-🔒 Vigenère Cipher — A polyalphabetic substitution cipher for more secure encryption.
+Vigenère Cipher — A polyalphabetic substitution cipher for more secure encryption.
 
-🔄 Real-time encryption and decryption.
+Real-time encryption and decryption.
 
-🖥️ Simple, clean UI for easy interaction.
+Simple, clean UI for easy interaction.
 
-🧰 Tech Stack
+Tech Stack
 
 Angular CLI
  v20.3.2
@@ -32,7 +32,7 @@ TypeScript
 
 HTML / CSS
 
-🚀 Getting Started
+Getting Started
 1. Clone the repository
 git clone <repo-url>
 
