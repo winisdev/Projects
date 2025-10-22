@@ -1,1 +1,1 @@
-# Solely for small projects and testing.
+Random Projects
