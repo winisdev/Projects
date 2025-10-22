@@ -11,7 +11,7 @@ Vigenère Cipher
 
 Note: This project was created as a school activity.
 
-Features
+Features:
 
 Additive Cipher (Caesar) — Encrypt and decrypt text using character shifting.
 
@@ -23,7 +23,7 @@ Real-time encryption and decryption.
 
 Simple, clean UI for easy interaction.
 
-Tech Stack
+Tech Stack:
 
 Angular CLI
  v20.3.2
@@ -32,7 +32,7 @@ TypeScript
 
 HTML / CSS
 
-Getting Started
+Getting Started:
 1. Clone the repository
 git clone <repo-url>
 
@@ -48,7 +48,7 @@ ng serve
 5. Open your browser
 http://localhost:4200/
 
-🧠 How It Works
+How It Works:
 
 Additive Cipher → Each letter is shifted by a fixed key. Example: key = 3 → A becomes D.
 
