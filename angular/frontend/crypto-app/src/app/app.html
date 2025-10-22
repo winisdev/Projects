@@ -1,0 +1,35 @@
+<div class="__main container-fluid pt-5" style="background-color: EBCB90">
+  <div class="container d-flex justify-content-between bg-dark w-50">
+    <a
+      class="navbar-brand my-2 text-light"
+      [routerLink]="['/about']"
+      routerLinkActive="router-link-active"
+      >About</a
+    >
+    <ul class="nav justify-content-around">
+      <li class="nav-item text-light">
+        <a
+          class="nav-link"
+          aria-current="page"
+          [routerLink]="['/monoasc']"
+          routerLinkActive="router-link-active"
+          >Additive</a
+        >
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/autokey']" routerLinkActive="router-link-active"
+          >Auto Key</a
+        >
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/vigenere']" routerLinkActive="router-link-active"
+          >Vigenere</a
+        >
+      </li>
+    </ul>
+  </div>
+
+  <div id="__content" class="__content">
+    <router-outlet />
+  </div>
+</div>

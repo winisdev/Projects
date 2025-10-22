@@ -1,0 +1,27 @@
+<div class="__root container align-content-center mt-5 p-0 w-50 text-center" style="height: 75vh">
+  <div class="h4 text-center">Additive</div>
+  <div class="container d-flex flex-column p-0 h-75">
+    <div class="input-group mt-5">
+      <span class="input-group-text" style="height: 50px">Text: </span>
+      <textarea
+        [(ngModel)]="text"
+        class="__text-area form-control"
+        style="height: 50px"
+        aria-label="With textarea"
+      ></textarea>
+    </div>
+    <div class="container mt-3 d-flex p-0">
+      <div class="container d-flex justify-content-around p-0 w-25">
+        <label class="__key-label mt-2" style="font-size: 14px">Your key:</label>
+        <input type="text" [(ngModel)]="key" style="width: 50px" />
+      </div>
+      <div class="container d-flex justify-content-end">
+        <button class="btn btn-success mx-2" type="button" (click)="encrypt()">Encrypt</button>
+        <button class="btn btn-primary mx-2" type="button" (click)="decrypt()">Decrypt</button>
+      </div>
+    </div>
+    <div class="__decrypt-result container mt-5">
+      {{ result }}
+    </div>
+  </div>
+</div>

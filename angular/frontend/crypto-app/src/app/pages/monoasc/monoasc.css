@@ -1,0 +1,24 @@
+.__text-area {
+  resize: none;
+
+  border-width: 2px;
+  border-style: solid;
+  border-color: Black;
+}
+
+.input-group-text {
+  border-width: 2px;
+  border-style: solid;
+  border-color: Black;
+  font-weight: 700;
+}
+
+.__key-label {
+  font-weight: 700;
+}
+
+#__key-input {
+  border-width: 2px;
+  border-style: solid;
+  border-color: Black;
+}
