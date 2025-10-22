@@ -5,10 +5,15 @@ PS. This is just a school activity.
 
 Features:
 
-Additive Cipher (Caesar Cipher) — Encrypt and decrypt text using character shifting.
-Autokey Cipher — A stronger cipher that uses the plaintext as part of the key.
-Vigenère Cipher — A polyalphabetic substitution cipher for more secure encryption.
+Additive Cipher (Caesar Cipher)
+  — Encrypt and decrypt text using character shifting.
+Autokey Cipher
+  — A stronger cipher that uses the plaintext as part of the key.
+Vigenère Cipher 
+  — A polyalphabetic substitution cipher for more secure encryption.
+  
 Real-time encryption and decryption.
+
 Simple, clean UI for easy interaction.
 
 Tech Stack:
